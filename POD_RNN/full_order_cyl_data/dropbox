@@ -1,1 +1,4 @@
-
+Download the three mat files in this subdirectory using the drop-box link: 
+-"crd_rb.mat" : mat file containing x and y coordinate info from FE simulation 
+-"pres_rb.mat": mat file containing nodal pressure data in time 
+-"vel_rb.mat" : mat file containing nodal x and y velocity data in time 
