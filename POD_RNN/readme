@@ -8,7 +8,7 @@ The code is written in MATLAB R2019a-academic version, which utilies the MATLAB 
 To use the code follow the steps in order: 
 
 #1. Run the matlab script "pod.m" that uses the full-order data from "full_order_cyl_data" directory to generate the spatial POD modes and time-coefficients. 
-Note that the full-order data in the "full_order_cyl_data" are provided in a seperate dropbox link as three *.mat files: 
+Note that the full-order data in the "full_order_cyl_data" are provided in a seperate link as three *.mat files: 
 -"crd_rb.mat" : mat file containing x and y coordinate info from FE simulation 
 -"pres_rb.mat": mat file containing nodal pressure data in time 
 -"vel_rb.mat" : mat file containing nodal x and y velocity data in time 
