@@ -1,1 +1,1 @@
-Convolutioanl recurrent autoencoder network
+Convolutional recurrent autoencoder network
